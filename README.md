@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+
 # ❤️ Heart Disease Risk Predictor
 
 A lightweight machine learning web application that predicts the likelihood of heart disease using clinical diagnostic indicators.
