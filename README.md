@@ -135,11 +135,3 @@ python -m streamlit run app.py
 Open `http://localhost:8501` in your browser to interact with the interface.
 
 ---
-
-## ⚠️ Disclaimer
-
-*This application is built for educational and portfolio demonstration purposes only. It should not be used as a substitute for professional clinical diagnosis or medical consultation.*
-
----
-
-Would you like me to generate a matching `.gitignore` file or help you set up an interactive GitHub badge showing the live demo link?
